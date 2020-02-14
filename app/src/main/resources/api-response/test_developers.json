@@ -1,0 +1,279 @@
+
+
+[
+{
+    "username": "dotansimha",
+    "name": "Dotan Simha",
+    "url": "https://github.com/dotansimha",
+    "avatar": "https://avatars2.githubusercontent.com/u/3680083",
+    "repo": {
+    "name": "graphql-code-generator",
+    "description": "GraphQL code generator with flexible support for custom plugins and templates",
+    "url": "https://github.com/dotansimha/graphql-code-generator"
+}
+},
+{
+    "username": "timothycrosley",
+    "name": "Timothy Edmund Crosley",
+    "url": "https://github.com/timothycrosley",
+    "avatar": "https://avatars2.githubusercontent.com/u/2090154",
+    "repo": {
+    "name": "isort",
+    "description": "A Python utility / library to sort imports.",
+    "url": "https://github.com/timothycrosley/isort"
+}
+},
+{
+    "username": "hawkw",
+    "name": "Eliza Weisman",
+    "url": "https://github.com/hawkw",
+    "avatar": "https://avatars1.githubusercontent.com/u/2796466",
+    "repo": {
+    "name": "sharded-slab",
+    "description": "a lock-free concurrent slab (experimental)",
+    "url": "https://github.com/hawkw/sharded-slab"
+}
+},
+{
+    "username": "nrc",
+    "name": "Nick Cameron",
+    "url": "https://github.com/nrc",
+    "avatar": "https://avatars0.githubusercontent.com/u/762626",
+    "repo": {
+    "name": "r4cppp",
+    "description": "Rust for C++ programmers",
+    "url": "https://github.com/nrc/r4cppp"
+}
+},
+{
+    "username": "making",
+    "name": "Toshiaki Maki",
+    "url": "https://github.com/making",
+    "avatar": "https://avatars1.githubusercontent.com/u/106908",
+    "repo": {
+    "name": "yavi",
+    "description": "Yet Another Validation for Java (A lambda based type safe validation framework)",
+    "url": "https://github.com/making/yavi"
+}
+},
+{
+    "username": "kamilkisiela",
+    "name": "Kamil Kisiela",
+    "url": "https://github.com/kamilkisiela",
+    "avatar": "https://avatars1.githubusercontent.com/u/8167190",
+    "repo": {
+    "name": "graphql-config",
+    "description": "One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)",
+    "url": "https://github.com/kamilkisiela/graphql-config"
+}
+},
+{
+    "username": "gcanti",
+    "name": "Giulio Canti",
+    "url": "https://github.com/gcanti",
+    "avatar": "https://avatars3.githubusercontent.com/u/878912",
+    "repo": {
+    "name": "fp-ts",
+    "description": "Functional programming in TypeScript",
+    "url": "https://github.com/gcanti/fp-ts"
+}
+},
+{
+    "username": "stefanprodan",
+    "name": "Stefan Prodan",
+    "url": "https://github.com/stefanprodan",
+    "avatar": "https://avatars1.githubusercontent.com/u/3797675",
+    "repo": {
+    "name": "dockprom",
+    "description": "Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager",
+    "url": "https://github.com/stefanprodan/dockprom"
+}
+},
+{
+    "username": "mikeal",
+    "name": "Mikeal Rogers",
+    "url": "https://github.com/mikeal",
+    "avatar": "https://avatars3.githubusercontent.com/u/579",
+    "repo": {
+    "name": "r2",
+    "description": "HTTP client. Spiritual successor to request.",
+    "url": "https://github.com/mikeal/r2"
+}
+},
+{
+    "username": "frenck",
+    "name": "Franck Nijhof",
+    "url": "https://github.com/frenck",
+    "avatar": "https://avatars2.githubusercontent.com/u/195327",
+    "repo": {
+    "name": "awesome-home-assistant",
+    "description": "A curated list of amazingly awesome Home Assistant resources.",
+    "url": "https://github.com/frenck/awesome-home-assistant"
+}
+},
+{
+    "username": "runningcode",
+    "name": "Nelson Osacky",
+    "url": "https://github.com/runningcode",
+    "avatar": "https://avatars0.githubusercontent.com/u/332597",
+    "repo": {
+    "name": "fladle",
+    "description": "Gradle Plugin for Firebase Test Lab and Flank",
+    "url": "https://github.com/runningcode/fladle"
+}
+},
+{
+    "username": "dpgaspar",
+    "name": "Daniel Vaz Gaspar",
+    "url": "https://github.com/dpgaspar",
+    "avatar": "https://avatars0.githubusercontent.com/u/4025227",
+    "repo": {
+    "name": "Flask-AppBuilder\nhttp://flaskappbuilder.pythonanywhere.com/",
+    "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+    "url": "https://github.com/dpgaspar/Flask-AppBuilder"
+}
+},
+{
+    "username": "taylorotwell",
+    "name": "Taylor Otwell",
+    "url": "https://github.com/taylorotwell",
+    "avatar": "https://avatars0.githubusercontent.com/u/463230",
+    "repo": {
+    "name": "nexmo-horizon-demo",
+    "description": "",
+    "url": "https://github.com/taylorotwell/nexmo-horizon-demo"
+}
+},
+{
+    "username": "danderson",
+    "name": "Dave Anderson",
+    "url": "https://github.com/danderson",
+    "avatar": "https://avatars2.githubusercontent.com/u/1918",
+    "repo": {
+    "name": "netboot",
+    "description": "Packages and utilities for network booting",
+    "url": "https://github.com/danderson/netboot"
+}
+},
+{
+    "username": "sandersn",
+    "name": "Nathan Shively-Sanders",
+    "url": "https://github.com/sandersn",
+    "avatar": "https://avatars1.githubusercontent.com/u/293473",
+    "repo": {
+    "name": "vue-ts-plugin",
+    "description": "Typescript Language Service Plugin for Vue",
+    "url": "https://github.com/sandersn/vue-ts-plugin"
+}
+},
+{
+    "username": "compnerd",
+    "name": "Saleem Abdulrasool",
+    "url": "https://github.com/compnerd",
+    "avatar": "https://avatars1.githubusercontent.com/u/63311",
+    "repo": {
+    "name": "swift-win32",
+    "description": "A Win32 application framework for Swift",
+    "url": "https://github.com/compnerd/swift-win32"
+}
+},
+{
+    "username": "bpasero",
+    "name": "Benjamin Pasero",
+    "url": "https://github.com/bpasero",
+    "avatar": "https://avatars3.githubusercontent.com/u/900690",
+    "repo": {
+    "name": "debug-electron-vscode",
+    "description": "Sample repository for being able to debug main and renderer from one debug session",
+    "url": "https://github.com/bpasero/debug-electron-vscode"
+}
+},
+{
+    "username": "tafsiri",
+    "name": "Yannick Assogba",
+    "url": "https://github.com/tafsiri",
+    "avatar": "https://avatars0.githubusercontent.com/u/26408",
+    "repo": {
+    "name": "filmstrip",
+    "description": "Filmstrip is an OpenCV/Python based set of scripts for extracting keyframes from video.",
+    "url": "https://github.com/tafsiri/filmstrip"
+}
+},
+{
+    "username": "ktbyers",
+    "name": "Kirk Byers",
+    "url": "https://github.com/ktbyers",
+    "avatar": "https://avatars2.githubusercontent.com/u/899716",
+    "repo": {
+    "name": "netmiko",
+    "description": "Multi-vendor library to simplify Paramiko SSH connections to network devices",
+    "url": "https://github.com/ktbyers/netmiko"
+}
+},
+{
+    "username": "EugenMayer",
+    "name": "Eugen Mayer",
+    "url": "https://github.com/EugenMayer",
+    "avatar": "https://avatars1.githubusercontent.com/u/136934",
+    "repo": {
+    "name": "docker-sync",
+    "description": "Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux",
+    "url": "https://github.com/EugenMayer/docker-sync"
+}
+},
+{
+    "username": "tiangolo",
+    "name": "Sebastián Ramírez",
+    "url": "https://github.com/tiangolo",
+    "avatar": "https://avatars0.githubusercontent.com/u/1326112",
+    "repo": {
+    "name": "fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "url": "https://github.com/tiangolo/fastapi"
+}
+},
+{
+    "username": "limonte",
+    "name": "Limon Monte",
+    "url": "https://github.com/limonte",
+    "avatar": "https://avatars2.githubusercontent.com/u/6059356",
+    "repo": {
+    "name": "dear-habr",
+    "description": "📨 Открытое письмо Хабрахабру от любящих юзернеймов",
+    "url": "https://github.com/limonte/dear-habr"
+}
+},
+{
+    "username": "grokys",
+    "name": "Steven Kirk",
+    "url": "https://github.com/grokys",
+    "avatar": "https://avatars1.githubusercontent.com/u/1775141",
+    "repo": {
+    "name": "Avalonia\nhttps://github.com/AvaloniaUI/Avalonia",
+    "description": "DEPRECATED. You're probably looking for https://github.com/AvaloniaUI/Avalonia",
+    "url": "https://github.com/grokys/Avalonia"
+}
+},
+{
+    "username": "jamiehannaford",
+    "name": "Jamie Hannaford",
+    "url": "https://github.com/jamiehannaford",
+    "avatar": "https://avatars0.githubusercontent.com/u/1867202",
+    "repo": {
+    "name": "what-happens-when-k8s",
+    "description": "🤔 What happens when I type kubectl run?",
+    "url": "https://github.com/jamiehannaford/what-happens-when-k8s"
+}
+},
+{
+    "username": "klauspost",
+    "name": "Klaus Post",
+    "url": "https://github.com/klauspost",
+    "avatar": "https://avatars0.githubusercontent.com/u/5663952",
+    "repo": {
+    "name": "compress",
+    "description": "Optimized compression packages",
+    "url": "https://github.com/klauspost/compress"
+}
+}
+]

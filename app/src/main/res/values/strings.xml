@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trending</string>
+    <string name="some_went_wrong">Something went wrong..</string>
+    <string name="retry">Retry</string>
+    <string name="check_netwrk">Please check your network connection</string>
+    <string name="repo_tab_heading">Repositories</string>
+    <string name="dev_tab_heading">Developers</string>
+
+</resources>
